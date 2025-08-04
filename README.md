@@ -1,5 +1,3 @@
-Here’s a concise and clear top-level `README.md` for your Git repository that contains multiple lab folders, including Lab 1 and future labs:
-
 # Machine Learning Labs Repository
 
 This repository contains a series of hands-on labs designed to help you learn and implement core machine learning concepts from scratch. Each lab folder contains self-contained code, datasets, and documentation focused on a specific topic.
